@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2YqRjfsElBi1mTZB6tW9lEF+MYUJO9PdWQ5lT583lSy4jLmcrSUZzVZWDqAMwIOetdAh1Z6n7VP+4OJriSXFzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tj011\\source\\repos\\Backup cafe au lait\\Backup cafe au lait\\Backup cafe au lait.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tj011\\.nuget\\packages\\csvhelper\\27.1.1\\csvhelper.27.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

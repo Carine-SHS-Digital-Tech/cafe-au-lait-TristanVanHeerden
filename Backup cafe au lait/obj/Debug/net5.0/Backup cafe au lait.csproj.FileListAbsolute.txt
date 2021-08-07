@@ -1,0 +1,18 @@
+C:\Users\tj011\source\repos\Backup cafe au lait\Backup cafe au lait\bin\Debug\net5.0\Backup cafe au lait.exe
+C:\Users\tj011\source\repos\Backup cafe au lait\Backup cafe au lait\bin\Debug\net5.0\Backup cafe au lait.deps.json
+C:\Users\tj011\source\repos\Backup cafe au lait\Backup cafe au lait\bin\Debug\net5.0\Backup cafe au lait.runtimeconfig.json
+C:\Users\tj011\source\repos\Backup cafe au lait\Backup cafe au lait\bin\Debug\net5.0\Backup cafe au lait.runtimeconfig.dev.json
+C:\Users\tj011\source\repos\Backup cafe au lait\Backup cafe au lait\bin\Debug\net5.0\Backup cafe au lait.dll
+C:\Users\tj011\source\repos\Backup cafe au lait\Backup cafe au lait\bin\Debug\net5.0\ref\Backup cafe au lait.dll
+C:\Users\tj011\source\repos\Backup cafe au lait\Backup cafe au lait\bin\Debug\net5.0\Backup cafe au lait.pdb
+C:\Users\tj011\source\repos\Backup cafe au lait\Backup cafe au lait\obj\Debug\net5.0\Backup cafe au lait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tj011\source\repos\Backup cafe au lait\Backup cafe au lait\obj\Debug\net5.0\Backup cafe au lait.AssemblyInfoInputs.cache
+C:\Users\tj011\source\repos\Backup cafe au lait\Backup cafe au lait\obj\Debug\net5.0\Backup cafe au lait.AssemblyInfo.cs
+C:\Users\tj011\source\repos\Backup cafe au lait\Backup cafe au lait\obj\Debug\net5.0\Backup cafe au lait.csproj.CoreCompileInputs.cache
+C:\Users\tj011\source\repos\Backup cafe au lait\Backup cafe au lait\obj\Debug\net5.0\Backup cafe au lait.dll
+C:\Users\tj011\source\repos\Backup cafe au lait\Backup cafe au lait\obj\Debug\net5.0\ref\Backup cafe au lait.dll
+C:\Users\tj011\source\repos\Backup cafe au lait\Backup cafe au lait\obj\Debug\net5.0\Backup cafe au lait.pdb
+C:\Users\tj011\source\repos\Backup cafe au lait\Backup cafe au lait\obj\Debug\net5.0\Backup cafe au lait.genruntimeconfig.cache
+C:\Users\tj011\source\repos\Backup cafe au lait\Backup cafe au lait\obj\Debug\net5.0\Backup cafe au lait.csproj.AssemblyReference.cache
+C:\Users\tj011\source\repos\Backup cafe au lait\Backup cafe au lait\bin\Debug\net5.0\CsvHelper.dll
+C:\Users\tj011\source\repos\Backup cafe au lait\Backup cafe au lait\obj\Debug\net5.0\Backup cafe au lait.csproj.CopyComplete
