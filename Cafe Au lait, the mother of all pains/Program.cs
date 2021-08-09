@@ -38,10 +38,7 @@ Option 2 : Take away");
                     switch (OperationoNum)
                     {
                         case 1:/// dine in 
-                            Console.ForegroundColor = ConsoleColor.Green;
-                            Console.WriteLine(@"
-Please only select 4 Drinks
-");
+                            
 
 
 
@@ -63,12 +60,7 @@ Please only select 4 Drinks
                             Console.WriteLine("4 > Cappuccino      $3.00");
                             int foam = Convert.ToInt32(Console.ReadLine());
                             int total_coffees = (Espresso + Ice_coffee + latte + foam);
-                            if (total_coffees > 4)
-                            {
-                                Console.ForegroundColor = ConsoleColor.Yellow;
-                                Console.WriteLine("sorry we cannot sell " + total_coffees + "to you as it exceeds the 4 cup capacity ");
-                                goto Order;
-                            }
+                            
                             {
                                 double price = ((Espresso * Espreso_price + Iced_coffee_price * Ice_coffee + Latte_price * latte + foam * foam_price) * Gst);
                                 double final_price = Math.Round(price, 2);
@@ -104,10 +96,8 @@ Please only select 4 Drinks
                             break;
 
                         case 2:// Take away 
-                            Console.ForegroundColor = ConsoleColor.Green;
-                            Console.WriteLine(@"
-Please only select 4 Drinks
-");
+                            
+                            
 
                             Double Espreso_price_A = 2.25;
                             Double foam_price_A = 3.00;
@@ -129,13 +119,7 @@ Please only select 4 Drinks
                             Console.WriteLine("4 > Cappuccino      $3.00");
                             int foam_A = Convert.ToInt32(Console.ReadLine());
                             int total_coffees_A = (Espresso_A + Ice_coffee_A + latte_A + foam_A);
-                            if (total_coffees_A > 4)
-                            {
-                                Console.ForegroundColor = ConsoleColor.White;
-                                Console.WriteLine("sorry we cannot sell " + total_coffees_A + "to you as it exceeds the 4 cup capacity ");
-                                Console.WriteLine();
-                                goto Order;
-                            }
+                           
                             {
                                 Console.ForegroundColor = ConsoleColor.Yellow;
                                 double price = (((Espresso_A * Espreso_price_A + Iced_coffee_price_A * Ice_coffee_A + Latte_price_A * latte_A + foam_A * foam_price_A) * extra) * Gst_A);
